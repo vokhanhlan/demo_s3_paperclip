@@ -1,0 +1,12 @@
+development:
+bucket: demos3paperclip
+access_key_id: AKIAIK6XO3KJK5FRKDWQ
+secret_access_key: 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
+test:
+bucket: bucket-test-name
+access_key_id: xxxxx
+secret_access_key: xxxxx
+production:
+bucket: bucket-prod-name
+access_key_id: xxxxx
+secret_access_key: xxxxx
